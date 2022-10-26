@@ -1,14 +1,19 @@
 <h1 align="center">Hi 👋, I'm Chris Burrows</h1>
 <h3 align="center">A passionate data scientist from Detroit, MI, USA</h3>
+<h2 align="left">About</h2>
+Howdy! I'm a friendly neighborhood drummer turned aspiring computer man (Data Science)! Turns out, it's a not-so-unlikely origin story. There could be a non-coincidental correlation between those who learn from rhythm machines and those that take interest in making machines learn. :D
 
+ I started out tinkering with my own computer builds since high school and have been infatuated with all the different software and hardware possibilities. My time studying in Bloomtech's Data Scientist course has exponentially improved my aptitude in all things computers and I really enjoy the creativity in coding!
+
+ A career in Data Science is a meaningful life model in which the length of time I can tune the hyperparameters for is seemingly unlimited. I'm very much looking forward to connecting!
+ 
 - 👨‍💻 All of my projects are available at [https://github.com/cbradiodrums](https://github.com/cbradiodrums)
 
 - 💬 Ask me about **Python, EDA, and Machine Learning**
 
 - 📫 How to reach me **burrowschristopherm@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/16osaeDiOvU2yDjIUlDtxaO9XuEvFZI4N8W563n4Zoik/edit?usp=sharing](https://docs.google.com/document/d/16osaeDiOvU2yDjIUlDtxaO9XuEvFZI4N8W563n4Zoik/edit?usp=sharing)
-
+- 📄 Know about my experiences: <a href="https://docs.google.com/document/d/16osaeDiOvU2yDjIUlDtxaO9XuEvFZI4N8W563n4Zoik/edit?usp=sharing"> My Resume </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/burrowschrism" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="burrowschrism" height="30" width="40" /></a>
