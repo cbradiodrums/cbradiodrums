@@ -13,7 +13,7 @@ Howdy! I'm a friendly neighborhood drummer turned aspiring computer man (Data Sc
 
 - 📫 How to reach me **burrowschristopherm@gmail.com**
 
-- 📄 Know about my experiences: [https://www.linkedin.com/in/burrowschristopherm/](My LinkedIn)
+- 📄 Know about my experiences: [https://www.linkedin.com/in/burrowschristopherm/]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/burrowschrism" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="burrowschrism" height="30" width="40" /></a>
