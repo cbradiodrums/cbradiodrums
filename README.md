@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Chris Burrows</h1>
 <h3 align="center">A passionate data scientist from Detroit, MI, USA</h3>
 <h2 align="left">About</h2>
-Howdy! I'm a friendly neighborhood drummer turned aspiring computer man (Data Science)! Turns out, it's a not-so-unlikely origin story. There could be a non-coincidental correlation between those who learn from rhythm machines and those that take interest in making machines learn. :D
 
- I started out tinkering with my own computer builds since high school and have been infatuated with all the different software and hardware possibilities. My time studying in Bloomtech's Data Scientist course has exponentially improved my aptitude in all things computers and I really enjoy the creativity in coding!
+ Howdy! I'm a friendly neighborhood drummer turned aspiring computer man (Data Science)! Turns out, it's a not-so-unlikely origin story. There could be a non-coincidental correlation between those who learn from rhythm machines and those that take interest in making machines learn. :D
 
- A career in Data Science is a meaningful life model in which the length of time I can tune the hyperparameters for is seemingly unlimited. I'm very much looking forward to connecting!
+ My time studying in Bloomtech's Data Scientist course has exponentially improved my aptitude in all things computers and I really enjoy the creativity in coding! Currently I have a very strong skillset in Python, SQL, and NoSQL, have deployed an App on a Heroku-like PaaS utilizing Dockerfile, AWS cloud infrastructure, Github CI / CD Actions, and CORS, and have proficiency in instantiating real time Machine Learning models. I also have a budding interest in C++ that has found place in my hobby time for study.
+
+ Any thing Data Analytics, Data Science, Data Engineering, and Software Engineering / Development will grab my attention!
  
 - 👨‍💻 All of my projects are available at [https://github.com/cbradiodrums](https://github.com/cbradiodrums)
 
